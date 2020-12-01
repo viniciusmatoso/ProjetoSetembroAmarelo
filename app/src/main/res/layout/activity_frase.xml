@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/layFraseActivity"
+    android:background="@drawable/folha_background"
+    android:orientation="vertical"
+    tools:context=".Controller.Usuario.FraseActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarFrase"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:text="AMOR!"
+        android:layout_marginTop="90dp"
+        android:layout_gravity="center"
+        android:id="@+id/txtTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:textSize="18sp"
+        android:id="@+id/txtFrase"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="50sp"
+        android:layout_marginLeft="40sp"
+        android:textStyle="italic"
+        android:textColor="#000000"
+        android:text="DIUASHSIUHDA sd UDHASH UHSDH UAD HSAUUASDUAS HASD UIHASIU
+ADSPOASJDISAJDASJD IOSA JOIA DIOA DJASJD AS JDASA
+ DASOI JSAOID JSAO IJASIDJ SA JDASJ DISA
+AS JSAD DISJAOSAJ SJA IASJIAJDO ISAD
+ DJSAIO DJSIO SJAIOSJD ASJAISO
+SDOISAHDOASHDSUDSADHOA
+DOISADHASOHDSAIDASIHSAHSAIHISADHIASDASIHSDAIHOISADHASOID
+ASDPOASJDPASJSADPOJDSAJDOASDJPOSAJDOPSJDAOPSDJASOFSDF
+SDFOIJDSFOISDJFDJFOJIFDJFSJFOJJDSIOFJSDJFIOSDJ SDIOF JSDOI JSDF JSD IJS
+SPOGJSDPJDS O JDSI JSDOI SIDO DISGHSDOI SIO DSIGH DSIO
+SDOPGJ SDPJSDJG PO GOSDG JPOSDGSOP S"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="55dp"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:textColor="#444"
+            android:textStyle="italic"
+            android:textSize="20sp"
+            android:text="Autor: "
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:textColor="#444"
+            android:textStyle="italic"
+            android:text="Marcus Vinícius"
+            android:textSize="20sp"
+            android:id="@+id/txtAutor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

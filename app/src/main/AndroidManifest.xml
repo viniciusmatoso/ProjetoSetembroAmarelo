@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.projetosetembroamarelo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".Controller.Usuario.FraseActivityUsuario"></activity>
+        <activity android:name=".Controller.LoginActivity" />
+        <activity android:name=".Controller.Usuario.MeusBilhetesActivity" />
+        <activity android:name=".Controller.Usuario.FraseActivity" />
+        <activity android:name=".Controller.CadastroActivity" />
+        <activity android:name=".Controller.Usuario.FavoritosActivity" />
+        <activity android:name=".Controller.Usuario.FraseUsuarioActivity" />
+        <activity android:name=".Controller.Usuario.MainUsuarioActivity" />
+        <activity android:name=".Controller.GerenciarFraseActivity" />
+        <activity android:name=".Controller.Admin.MainAdminActivity" />
+        <activity android:name=".Controller.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

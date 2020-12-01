@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/FrasesFragment"
+    android:id="@+id/navigation_main">
+
+    <fragment
+        android:id="@+id/FrasesFragment"
+        android:name="br.com.projetosetembroamarelo.Controller.Usuario.Fragments.FrasesFragment"
+        android:label="fragment_frases"
+        tools:layout="@layout/fragment_frases"/>
+
+    <fragment
+        android:id="@+id/PesquisaFragment"
+        android:name="br.com.projetosetembroamarelo.Controller.Usuario.Fragments.PesquisarFragment"
+        android:label="fragment_curtidas"
+        tools:layout="@layout/fragment_pesquisar"/>
+
+    <fragment
+        android:id="@+id/PerfilFragment"
+        android:name="br.com.projetosetembroamarelo.Controller.Usuario.Fragments.PerfilFragment"
+        android:label="fragment_perfil"
+        tools:layout="@layout/fragment_perfil"/>
+
+</navigation>
