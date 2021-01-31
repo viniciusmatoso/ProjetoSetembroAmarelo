@@ -32,10 +32,10 @@ Para poder realizar a execução desse aplicativo é necessário que possua a ID
 
 ## Imagens do Aplicativo
 
-<img src="insta_login.png" width="30%" height="380"> <img src="insta_perfil.png" width="30%" height="380">
-<img src="insta_amigos.png" width="30%" height="380">
-<img src="insta_home.png" width="30%" height="380">
-<img src="insta_camera.png" width="30%" height="380">
+<img src="login.png" width="30%" height="380"> <img src="cadastro.png" width="30%" height="380">
+<img src="seus_bilhetes.png" width="30%" height="380">
+<img src="frase.png" width="30%" height="380">
+<img src="pesquisa.png" width="30%" height="380">
 
 ## Tecnologias Utilizadas
 
