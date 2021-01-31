@@ -54,4 +54,4 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 - 📄 Ajudando a melhorar a documentação.
 - 🚀 Compartilhando este projeto com seus amigos.
 
-Voltar ao [topo](#instagramclone).
+Voltar ao [topo](#projetosetembroamarelo).
