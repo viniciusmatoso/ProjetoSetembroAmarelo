@@ -14,7 +14,7 @@
 
 ## Descrição
 
-Projeto criado para a plataforma [Android](https://www.android.com/intl/pt-BR_br/), sendo utilizado o [SQLite](hhttps://www.sqlite.org/index.html) para o armazenamento dos dados.
+Projeto criado para a plataforma [Android](https://www.android.com/intl/pt-BR_br/), sendo utilizado o [SQLite](https://www.sqlite.org/index.html) para o armazenamento dos dados.
 
 O projeto é um reforço para a campanha brasileira de prevenção ao suicídio chamado 'Setembro Amarelo'. O aplicativo contém uma lista de frases motivacionais, perfil e uma barra para pesquisar as frases. Você pode cadastrar uma nova conta, ver frases, criar e pesquisar novos bilhetes.
 
