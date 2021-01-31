@@ -6,6 +6,7 @@
 - [ProjetoSetembroAmarelo](#projetosetembroamarelo)
   - [Sumário](#sumário)
   - [Descrição](#descrição)
+    - [Observação](#observação)
   - [Pré-requisitos](#pré-requisitos)
   - [Imagens do Aplicativo](#imagens-do-aplicativo)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -15,7 +16,15 @@
 
 Projeto criado para a plataforma [Android](https://www.android.com/intl/pt-BR_br/), sendo utilizado o [SQLite](hhttps://www.sqlite.org/index.html) para o armazenamento dos dados.
 
-O projeto é um reforço para a campanha brasileira de prevenção ao suicídio chamado 'Setembro Amarelo'. O aplicativo contém contendo uma lista de amigos, perfil, fotos e câmera. Você pode cadastrar uma nova conta, adicionar colegas, tirar fotos e adicionar ao seu perfil.
+O projeto é um reforço para a campanha brasileira de prevenção ao suicídio chamado 'Setembro Amarelo'. O aplicativo contém uma lista de frases motivacionais, perfil e uma barra para pesquisar as frases. Você pode cadastrar uma nova conta, ver frases, criar e pesquisar novos bilhetes.
+
+### Observação 
+
+É possível acessar a conta de Admin também para gerenciar os bilhetes.
+
+**Email: admin@gmail.com** <br/>
+**Senha: 123456**
+
 
 ## Pré-requisitos
 
